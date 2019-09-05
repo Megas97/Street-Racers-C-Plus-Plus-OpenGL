@@ -1,0 +1,16 @@
+https://github.com/saiminajagi/3D-car-animation-in-OpenGL
+https://learnopengl.com/Model-Loading/Assimp
+
+https://free3d.com/3d-model/sports-car-tire-7387.html
+
+https://free3d.com/3d-model/dodge-challenger-1971-72998.html
+http://animium.com/2008/08/dodge-charger-r-t
+
+https://learnopengl.com/data/models/nanosuit.rar
+https://gamebanana.com/models/3525
+
+https://github.com/BennyQBD/ModernOpenGLTutorial
+
+Topic #1 (animate parts): https://community.khronos.org/t/animate-car-exterior-parts/103996/2
+Topic #2 (string too long): https://community.khronos.org/t/assimp-string-too-long-error/104035
+Topic #3 (assimp issue): https://github.com/assimp/assimp/issues/2471

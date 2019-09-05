@@ -1,0 +1,25 @@
+num0 or 0 = Tire
+num1 or 1 = Dodge Challenger
+num2 or 2 = Dodge Charger
+num3 or 3 = both Dodges
+num4 or 4 = Carl Johnson (CJ)
+num5 or 5 = Nanosuit
+num6 or 6 = both CJ & Nanosuit
+num7 or 7 = Dodge Challenger + Nanosuit
+num8 or 8 = Dodge Charger + CJ
+num9 or 9 = Dodge Challenger + Nanosuit + Dodge Charger + CJ
+
+num_div or a = Move camera left
+num_mul or d = Move camera right
+num_plus or w = Move camera forward
+num_minus or s = Move camera backward
+mouse_wheel_up = Zoom camera in
+mouse_wheel_down = Zoom camera out
+
+arrow_left = Change view to left side
+arrow_up = Change view to front side
+arrow_right = Change view to right side
+arrow_down = Change view to rear side
+
+F = Toggle fullscreen
+Q = Quit
